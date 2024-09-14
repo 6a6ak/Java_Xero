@@ -1,5 +1,8 @@
 ## Getting Started
 
+
+[![wakatime](https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83/project/59e76753-ccd8-49c6-b1bd-0daad0f1027f.svg)](https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83/project/59e76753-ccd8-49c6-b1bd-0daad0f1027f)
+
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
 ## Folder Structure
